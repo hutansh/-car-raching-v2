@@ -1,1 +1,2 @@
-# -car-raching-v2
+# multiplayer-car-racing-v2
+Multiplayer Car racing game v2
